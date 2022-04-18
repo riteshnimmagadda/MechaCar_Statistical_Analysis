@@ -4,15 +4,21 @@ MechaCar, is suffering from production troubles that are blocking the manufactur
 ## Study Design: MechaCar vs Competition
 
 ## Linear Regression
+A linear Regression method was performed to understand which variable among ehicle length, vehicle weight, spoiler angle, ground clearance, and AWD are effecting the vehicle fuel efficiency. From the analysis, it is found that vehicle length and ground clearance are contributing to the fuel efficiency. 
+
 ![alt_text](https://github.com/riteshnimmagadda/MechaCar_Statistical_Analysis/blob/main/Resources/leaner%20regression.png)
 
 ## Summary of statistics on Suspension Coils:
 ![alt_text](https://github.com/riteshnimmagadda/MechaCar_Statistical_Analysis/blob/main/Resources/summary.png)
 
 ### Total Summary
-![alt_text](https://github.com/riteshnimmagadda/MechaCar_Statistical_Analysis/blob/main/Resources/lot_summary.png)
+From the below summary across all the lots, the variance is almost 63
+
+![alt_text](https://github.com/riteshnimmagadda/MechaCar_Statistical_Analysis/blob/main/Resources/total%20summary.png)
 
 ### Lot Summary
+Below is the summary for three different lots. Lot #1 and lot # 2 are closer to each other, while lot # 3 is way higher and above 100.
+
 ![alt_text](https://github.com/riteshnimmagadda/MechaCar_Statistical_Analysis/blob/main/Resources/lot_summary.png)
 
 ## T-Tests on Suspension Coils
