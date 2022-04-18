@@ -23,6 +23,8 @@ Below is the summary for three different lots. Lot #1 and lot # 2 are closer to 
 
 ## T-Tests on Suspension Coils
 
+T-tests are done to understand if the sample mean is a true representation of the overall mean of the data set provided. The mean of the population given is 1500 across all the tests below:
+
 ### T-Test 1
 ![alt text](https://github.com/riteshnimmagadda/MechaCar_Statistical_Analysis/blob/main/Resources/test1.png)
 
